@@ -37,7 +37,7 @@ These are just a few examples of problems people are solving with smartcd.
 
 ## OK, HOW DO I USE IT?
 
-  It's stupid easy.  If you have already downloaded the archive or checked out
+  It's simple enough:  If you have already downloaded the archive or checked out
   the source, you can:
 
     make install
